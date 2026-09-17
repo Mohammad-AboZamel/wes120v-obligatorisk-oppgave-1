@@ -19,3 +19,7 @@ Kjør:
 pnpm dev
 
 Åpne siden på adressen Vite viser i terminalen.
+
+## Prosjektstruktur
+
+`index.html` er entrypoint for prosjektet.
