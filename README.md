@@ -5,7 +5,7 @@ Jeg har laget et minimalt vite-prosjekt, der oppgaven er å lage en nettside.
 
 ## Node.js og pnpm må være installert
 
-For å kjøre prosjektet må Node.js og pnpm være installert, jeg har lastet de ned i ubuntu på terminal.
+For å kjøre prosjektet må Node.js og pnpm være installert, jeg har lastet begge ned i ubuntu på terminal.
 
 ## Hvordan avhengighetene installeres med pnpm install
 
