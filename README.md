@@ -9,7 +9,7 @@ For å kjøre prosjektet må Node.js og pnpm være installert, jeg har lastet de
 
 ## Hvordan avhengighetene installeres med pnpm install
 
-Når prosjektet er lastet ned, vil avhengighetene kunne innstaleres med å taste inn kommandoen pnpm install
+Når prosjektet er lastet ned, vil avhengighetene kunne innstaleres med å taste inn kommandoen pnpm install.
 
 ## Hvordan utviklingsserveren startes med pnpm dev
 
