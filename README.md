@@ -13,7 +13,7 @@ Når prosjektet er lastet ned, vil avhengighetene kunne innstalleres med å tast
 
 ## Hvordan utviklingsserveren startes med pnpm dev
 
-For å starte prosjektet bruker jeg pnpm run dev.
+For å starte prosjektet eller serveren for å kunne gå inn på nettlesere, bruker jeg pnpm dev.
 
 ## Siden åpnes på adressen Vite viser i terminalen
 
